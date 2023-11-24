@@ -1,0 +1,6 @@
+This folder is for showcasing finished projects that I have either 
+been the sole or partial creator of. These projects include college 
+as well as professional projects.
+
+Alongside the code for the program I Have attached a screenshot of 
+what the program looks like during an execution. 
