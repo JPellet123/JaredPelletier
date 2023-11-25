@@ -1,0 +1,4 @@
+This app allows the creation of new lines with a container via the inputs on the left. The buttons allow a few options 
+for control, the clear will clear all text in the container, add will add the text within the inputs as one line into the
+container and the save button will save the file to an output destination on the users computer than display whether successful
+or not and where it saved to.
